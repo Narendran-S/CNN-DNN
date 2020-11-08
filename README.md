@@ -50,3 +50,7 @@ Convolution and pooling functions are used as activation functions
 
 CONVOLUTION: Input image and other as Filter on input image(Kernel) produces output image.
 POOLING: picking maximum value from selected region is Max pooling and vice versa.
+
+
+###### Architecture of CNN
+![image](https://user-images.githubusercontent.com/67863890/98467416-28cd8e80-21fb-11eb-9bec-0a406c32b18b.png)
